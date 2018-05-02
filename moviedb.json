@@ -1,0 +1,88 @@
+
+{
+	"response": {
+		"header": {
+			"statusCode": "0000",
+			"statusDesc": "SUCCESS"
+		},
+		"theatreData": {
+			"Escape": {
+				"img": "https://lh5.googleusercontent.com/p/AF1QipNX5_VWBuFPOzjC44-Tz9A33QyMby7VGUg5vqLZ=w260-h160-k-no",
+				"TimeData": [{
+						"movieName": "Boys over Flowers",
+						"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpsPvEt8lQLG1lotlyf7CQglWY7m25BwriGKsFd2s0jYcZNKg",
+						"date": "4/30/2018",
+						"time": "3.30 P.M"
+					},
+					{
+						"movieName": "Kabali",
+						"date": "4/30/2018",
+						"time": "8.30 P.M"
+					},
+					{
+						"movieName": "Aram",
+						"date": "4/30/2018",
+						"time": "11.30 P.M"
+					}
+				]
+			},
+			"Luxe": {
+				"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeGvFEXAP2vcqY2wuDMa36mrEIstCo3OFaQUvJEcQIB-VHpvmYQ",
+				"TimeData": [{
+						"movieName": "The Pirates of the Caribean Sea",
+						"date": "4/30/2018",
+						"time": "3.30 P.M"
+					},
+					{
+						"movieName": "Avatar",
+						"date": "4/30/2018",
+						"time": "8.30 P.M"
+					},
+					{
+						"movieName": "Avengers",
+						"date": "4/30/2018",
+						"time": "11.30 P.M"
+					}
+				]
+			},
+			"Sathyam": {
+				"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpsPvEt8lQLG1lotlyf7CQglWY7m25BwriGKsFd2s0jYcZNKg",
+				"TimeData": [{
+						"movieName": "Transformers Age of Extinction",
+						"date": "4/30/2018",
+						"time": "3.30 P.M"
+					},
+					{
+						"movieName": "The Fault in our stars",
+						"date": "4/30/2018",
+						"time": "8.30 P.M"
+					},
+					{
+						"movieName": "Edge of Tomorrow",
+						"date": "4/30/2018",
+						"time": "11.30 P.M"
+					}
+				]
+			},
+			"S2 Cinema": {
+				"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGP0GHUc1say7bdXnQ22JPbSSwKOkaC4v6dBtpe-8xlv8Sx2No",
+				"TimeData": [{
+						"movieName": "Evil Death",
+						"date": "4/30/2018",
+						"time": "3.30 P.M"
+					},
+					{
+						"movieName": "Rangers",
+						"date": "4/30/2018",
+						"time": "8.30 P.M"
+					},
+					{
+						"movieName": "Chinchan",
+						"date": "4/30/2018",
+						"time": "11.30 P.M"
+					}
+				]
+			}
+		}
+	}
+}
